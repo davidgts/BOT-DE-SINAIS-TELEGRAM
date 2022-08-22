@@ -1,0 +1,27 @@
+{
+  "name": "botgratis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgts/botGratis.git"
+  },
+  "author": "david machado da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgts/botGratis/issues"
+  },
+  "homepage": "https://github.com/davidgts/botGratis#readme",
+  "dependencies": {
+    "dayjs": "^1.11.5",
+    "dotenv": "^16.0.1",
+    "mysql2": "^2.3.3",
+    "node-schedule": "^2.1.0",
+    "node-telegram-bot-api": "^0.58.0",
+    "sequelize": "^6.21.4"
+  }
+}
