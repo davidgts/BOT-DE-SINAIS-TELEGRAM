@@ -24,7 +24,7 @@ Este é um projeto que implementa um bot. do Telegram para enviar sinais de cass
     -   Crie um arquivo `.env` na raiz do projeto e configure as variáveis necessárias, como o token do bot. e as credenciais do banco de dados.
 4.  Inicie o bot.:
      
-    `node main.js` 
+    `node index.js` 
     
 
 ## Uso 📝
