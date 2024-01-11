@@ -21,7 +21,7 @@ Este é um projeto que implementa um bot. do Telegram para enviar sinais de cass
     
 3.  Configure suas variáveis de ambiente:
     
-    -   Crie um arquivo `.env` na raiz do projeto e configure as variáveis necessárias, como o token do bot. e as credenciais do banco de dados.
+    -   Edite o arquivo `.env` na raiz do projeto e configure as variáveis necessárias, como o token do bot. e as credenciais do banco de dados.
 4.  Inicie o bot.:
      
     `node index.js` 
