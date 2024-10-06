@@ -19,7 +19,7 @@
   "dependencies": {
     "dayjs": "^1.11.5",
     "dotenv": "^16.0.1",
-    "mysql2": "^2.3.3",
+    "mysql2": "^3.9.8",
     "node-schedule": "^2.1.0",
     "node-telegram-bot-api": "^0.58.0",
     "sequelize": "^6.21.4"
